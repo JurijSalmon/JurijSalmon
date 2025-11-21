@@ -1,4 +1,4 @@
-# Hi, I'm Jurij 👋
+<img src="montblanc_with_text.jpg" alt="Hello" width="1200"/>
 
 🎓 **Master’s Student** in Information Systems @ TUM  
 💻 **Passionate about:** AI, Software Development, Medical Applications  
