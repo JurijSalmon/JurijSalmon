@@ -1,8 +1,10 @@
-<img src="montblanc_with_text.jpg" alt="Hello" width="1200"/>
+<img src="github-header-banner.png" alt="Hello" width="1200"/>
+
+---
 
 🎓 **Master’s Student** in Information Systems @ TUM  
 💻 **Passionate about:** AI, Software Development, Medical Applications  
-🎵 **Current Project:** Arbitrage opportunities between online betting markets and options pricing  
+📈**Current Project:** Arbitrage opportunities between online betting markets and options pricing  
 🌍 **Location:** Munich, Germany  
 
 ---
