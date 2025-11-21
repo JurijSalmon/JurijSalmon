@@ -1,6 +1,20 @@
+# Hi, I'm Jurij 👋
 
+🎓 **Master’s Student** in Information Systems @ TUM  
+💻 **Passionate about:** AI, Software Development, Medical Applications  
+🎵 **Current Project:** Arbitrage opportunities between online betting markets and options pricing  
+🌍 **Location:** Munich, Germany  
 
+---
 
-Hi, am Jurij
+### 🛠 Skills
+- Python 🐍 | Java ⚡ | Music Production 🎹  
+- Embedded Systems 🌐 | Cloud Platforms ☁️ | Data Analysis 📊  
 
-I'm studying Information Systems and currently doing my Masters @TUM.
+---
+
+### 📫 Connect with me
+<!-- LinkedIn: [linkedin.com/in/jurijsalmon](https://www.linkedin.com/in/jurijsalmon) -->
+- GitHub: [github.com/jurijsalmon](https://github.com/jurijsalmon)  
+- Email: jurij.salmon@gmail.com ✉️  
+
